@@ -1,0 +1,5 @@
+build/
+.metadata/
+.settings/
+.vscode/BROWSE.*
+sdkconfig.old
